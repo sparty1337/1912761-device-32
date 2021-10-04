@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss/32/user/1912761).
-* Наставник: [Дмитрий Иовлев) (https://htmlacademy.ru/profile/skywalker)
+* Наставник: [Дмитрий Иовлев](https://htmlacademy.ru/profile/skywalker).
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
